@@ -1,7 +1,0 @@
-streamlit
-PyMuPDF
-Pillow
-requests
-gTTS
-moviepy
-reportlab
